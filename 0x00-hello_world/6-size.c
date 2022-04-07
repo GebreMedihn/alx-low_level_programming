@@ -6,7 +6,7 @@
  *    * Return: Always 0 (Success)
  */
 int main(void)
-i{
+{
 int a;
 long int b;
 long long int c;
